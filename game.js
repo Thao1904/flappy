@@ -50,8 +50,8 @@ const gameOverSection = document.querySelector('.game-over-section');
 let gameStarted = false;
 
 // Game settings
-const birdWidth = 100;
-const birdHeight = 150;
+const birdWidth = 80;
+const birdHeight = 100;
 let birdX = 50;
 let birdY = canvas.height / 2;
 let birdVelocity = 0;
